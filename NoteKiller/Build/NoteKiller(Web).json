@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "NoteKiller",
+"productVersion": "0.1",
+"dataUrl": "NoteKiller(Web).data.unityweb",
+"wasmCodeUrl": "NoteKiller(Web).wasm.code.unityweb",
+"wasmFrameworkUrl": "NoteKiller(Web).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.18f1"
+}
